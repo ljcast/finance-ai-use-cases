@@ -1,0 +1,94 @@
+date,counterparty,category,description,amount
+2026-10-01,Arrendador,Alquileres,Alquileres,-16141.49
+2026-10-01,Plataforma de reservas,Cobros OTA,Cobros OTA,26181.91
+2026-10-01,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12526.0
+2026-10-01,Banco,Comisiones bancarias,Comisiones bancarias,-297.07
+2026-10-01,Proveedor Mantenimiento,Proveedores,Proveedores,-6189.47
+2026-10-02,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12501.39
+2026-10-02,Banco,Comisiones bancarias,Comisiones bancarias,-313.73
+2026-10-02,Proveedor Marketing,Proveedores,Proveedores,-5642.99
+2026-10-03,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11904.74
+2026-10-03,Banco,Comisiones bancarias,Comisiones bancarias,-293.8
+2026-10-04,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12819.39
+2026-10-04,Banco,Comisiones bancarias,Comisiones bancarias,-306.91
+2026-10-05,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12619.7
+2026-10-05,Banco,Comisiones bancarias,Comisiones bancarias,-297.28
+2026-10-05,Proveedor Mantenimiento,Proveedores,Proveedores,-6052.4
+2026-10-06,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11162.53
+2026-10-06,Banco,Comisiones bancarias,Comisiones bancarias,-315.73
+2026-10-06,Proveedor Alimentación,Proveedores,Proveedores,-6126.4
+2026-10-07,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12495.53
+2026-10-07,Banco,Comisiones bancarias,Comisiones bancarias,-293.02
+2026-10-07,Proveedor Lavandería,Proveedores,Proveedores,-6377.4
+2026-10-08,Plataforma de reservas,Cobros OTA,Cobros OTA,25956.24
+2026-10-08,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12534.5
+2026-10-08,Banco,Comisiones bancarias,Comisiones bancarias,-285.34
+2026-10-08,Proveedor Marketing,Proveedores,Proveedores,-5968.05
+2026-10-09,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,7200.0
+2026-10-09,Banco,Comisiones bancarias,Comisiones bancarias,-308.79
+2026-10-09,Proveedor Marketing,Proveedores,Proveedores,-6448.81
+2026-10-10,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11665.58
+2026-10-10,Banco,Comisiones bancarias,Comisiones bancarias,-293.78
+2026-10-11,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11941.55
+2026-10-11,Banco,Comisiones bancarias,Comisiones bancarias,-285.09
+2026-10-12,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11289.45
+2026-10-12,Banco,Comisiones bancarias,Comisiones bancarias,-298.83
+2026-10-12,Proveedor Suministros,Proveedores,Proveedores,-5737.83
+2026-10-13,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12326.04
+2026-10-13,Banco,Comisiones bancarias,Comisiones bancarias,-296.98
+2026-10-13,Proveedor Lavandería,Proveedores,Proveedores,-6192.25
+2026-10-14,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11639.74
+2026-10-14,Banco,Comisiones bancarias,Comisiones bancarias,-315.95
+2026-10-14,Proveedor Mantenimiento,Proveedores,Factura 2026-0871,-18450.0
+2026-10-14,Proveedor Mantenimiento,Proveedores,Factura 2026-0871,-18450.0
+2026-10-15,Plataforma de reservas,Cobros OTA,Cobros OTA,26655.59
+2026-10-15,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11783.96
+2026-10-15,Banco,Comisiones bancarias,Comisiones bancarias,-289.84
+2026-10-15,Proveedor Alimentación,Proveedores,Proveedores,-5654.16
+2026-10-16,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11054.14
+2026-10-16,Banco,Comisiones bancarias,Comisiones bancarias,-313.77
+2026-10-16,Proveedor Suministros,Proveedores,Proveedores,-6158.26
+2026-10-17,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12393.92
+2026-10-17,Banco,Comisiones bancarias,Comisiones bancarias,-313.47
+2026-10-18,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11921.12
+2026-10-18,Banco,Comisiones bancarias,Comisiones bancarias,-303.3
+2026-10-19,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11308.41
+2026-10-19,Banco,Comisiones bancarias,Comisiones bancarias,-281.5
+2026-10-19,Proveedor Mantenimiento,Proveedores,Proveedores,-5972.25
+2026-10-20,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12125.25
+2026-10-20,Banco,Comisiones bancarias,Comisiones bancarias,-312.72
+2026-10-20,Hacienda,Impuestos,Impuestos,-9077.15
+2026-10-20,Proveedor Suministros,Proveedores,Proveedores,-6129.33
+2026-10-21,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12113.68
+2026-10-21,Banco,Comisiones bancarias,Comisiones bancarias,-290.59
+2026-10-21,Proveedor Suministros,Proveedores,Proveedores,-5939.25
+2026-10-22,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11452.0
+2026-10-22,Banco,Comisiones bancarias,Comisiones bancarias,-295.61
+2026-10-22,Proveedor Lavandería,Proveedores,Proveedores,-6339.27
+2026-10-23,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11151.94
+2026-10-23,Banco,Comisiones bancarias,Comisiones bancarias,-289.51
+2026-10-23,Proveedor Marketing,Proveedores,Proveedores,-6155.44
+2026-10-24,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12109.5
+2026-10-24,Banco,Comisiones bancarias,Comisiones bancarias,-313.63
+2026-10-25,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12315.48
+2026-10-25,Banco,Comisiones bancarias,Comisiones bancarias,-295.51
+2026-10-26,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12602.92
+2026-10-26,Banco,Comisiones bancarias,Comisiones bancarias,-284.01
+2026-10-26,Proveedor Alimentación,Proveedores,Proveedores,-5541.8
+2026-10-27,Proveedor Reformas,Capex no previsto,Anticipo obra,-52000.0
+2026-10-27,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11212.89
+2026-10-27,Banco,Comisiones bancarias,Comisiones bancarias,-310.67
+2026-10-27,Proveedor Suministros,Proveedores,Proveedores,-5674.82
+2026-10-28,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12002.01
+2026-10-28,Banco,Comisiones bancarias,Comisiones bancarias,-283.31
+2026-10-28,Nóminas,Nóminas,Nóminas,-37672.63
+2026-10-28,Proveedor Mantenimiento,Proveedores,Proveedores,-6188.47
+2026-10-29,Plataforma de reservas,Cobros OTA,Cobros OTA,26152.67
+2026-10-29,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11771.56
+2026-10-29,Banco,Comisiones bancarias,Comisiones bancarias,-290.47
+2026-10-29,Proveedor Suministros,Proveedores,Proveedores,-5867.34
+2026-10-30,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,11266.57
+2026-10-30,Banco,Comisiones bancarias,Comisiones bancarias,-322.17
+2026-10-30,Proveedor Suministros,Proveedores,Proveedores,-6392.24
+2026-10-31,Adquirente tarjetas,Cobros tarjeta,Cobros tarjeta,12383.44
+2026-10-31,Banco,Comisiones bancarias,Comisiones bancarias,-288.76

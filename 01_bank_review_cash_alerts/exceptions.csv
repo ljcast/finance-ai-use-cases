@@ -1,0 +1,6 @@
+date,type,severity,detail,suggested_action,reviewer,status
+2026-10-09,Desviación vs previsión,Media,"Cobros tarjeta: previsto 12,000 €, real 7,200 € (-4,800 €)",Pedir explicación al responsable del área,,Pendiente
+2026-10-14,Posible pago duplicado,Alta,"Proveedor Mantenimiento: dos pagos de 18,450.00 € en ≤3 días (Factura 2026-0871)",Bloquear/recuperar el segundo pago antes del cierre,,Pendiente
+2026-10-14,Desviación vs previsión,Media,"Proveedores: previsto -18,450 €, real -36,900 € (-18,450 €)",Pedir explicación al responsable del área,,Pendiente
+2026-10-22,Cobro previsto no recibido,Alta,"Cobros OTA: previsto 28,000 €, recibido 0 €",Reclamar al cliente o plataforma; revisar fecha de valor,,Pendiente
+2026-10-27,Movimiento sin previsión,Alta,"Capex no previsto: -52,000 € sin importe previsto",Confirmar autorización y actualizar la previsión,,Pendiente
