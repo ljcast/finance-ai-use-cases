@@ -2,6 +2,9 @@
 
 > Demostración con **datos 100 % sintéticos** de una empresa ficticia ("Hoteles Demo, S.L."). No es una implantación real.
 
+## Usuarios
+Responsable de tesorería, responsable de contabilidad de bancos, avisos al Finance Manager.
+
 ## Problema de negocio
 Tesorería revisa a mano los movimientos bancarios y los compara con la previsión de caja. Es lento, y los errores (pagos duplicados, cobros que no llegan, salidas no previstas) se detectan tarde, a menudo en el cierre.
 
@@ -14,7 +17,6 @@ Tesorería revisa a mano los movimientos bancarios y los compara con la previsi�
 Se inyectaron 4 incidencias y el análisis las encuentra todas (5 alertas, porque el duplicado dispara dos reglas):
 
 | Fecha | Alerta | Qué ocurre |
-|---|---|---|
 | 09/10 | Desviación | Cobros con tarjeta 40 % por debajo de lo previsto |
 | 14/10 | Posible pago duplicado | Dos pagos iguales a un proveedor |
 | 22/10 | Cobro no recibido | Cobro OTA de 28.000 € que no llega |
